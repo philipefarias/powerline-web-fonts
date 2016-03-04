@@ -23,17 +23,22 @@
     font-style: normal;
     font-weight: 400;
     src: local("Sauce Code Powerline Regular"),
-    	url(fonts/SourceCodePro.woff2) format("woff2");
+	url(fonts/SourceCodePro.woff2) format("woff2");
 }
 @font-face {
     font-family: "Source Code Pro for Powerline";
     font-style: normal;
     font-weight: 400;
     src: local("Sauce Code Powerline Regular"),
-    	url(fonts/SourceCodePro.woff2) format("woff2");
+	url(fonts/SourceCodePro.woff2) format("woff2");
 }
 @font-face {
 	font-family: "Ubuntu Mono";
 	src: local("Ubuntu Mono derivative Powerline"),
 		url(fonts/UbuntuMono.woff2) format("woff2");
+}
+@font-face {
+	font-family: "Monofur";
+	src: local("Monofur Regular for Powerline"),
+		url(fonts/Monofur.woff2) format("woff2");
 }
